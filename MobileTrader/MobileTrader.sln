@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MobileTrader.Web", "src\MobileTrader.Web\MobileTrader.Web.csproj", "{756577F0-F9C5-479B-A43A-65B2FA5229D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTrader.Entity", "src\MobileTrader.Entity\MobileTrader.Entity.csproj", "{7507176A-0A15-42AE-BC35-A0BE02DB58CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTrader.Data", "src\MobileTrader.Data\MobileTrader.Data.csproj", "{0666F979-D4A1-4D4D-B861-7967144D67B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756577F0-F9C5-479B-A43A-65B2FA5229D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756577F0-F9C5-479B-A43A-65B2FA5229D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756577F0-F9C5-479B-A43A-65B2FA5229D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756577F0-F9C5-479B-A43A-65B2FA5229D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7507176A-0A15-42AE-BC35-A0BE02DB58CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7507176A-0A15-42AE-BC35-A0BE02DB58CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7507176A-0A15-42AE-BC35-A0BE02DB58CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7507176A-0A15-42AE-BC35-A0BE02DB58CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0666F979-D4A1-4D4D-B861-7967144D67B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0666F979-D4A1-4D4D-B861-7967144D67B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0666F979-D4A1-4D4D-B861-7967144D67B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0666F979-D4A1-4D4D-B861-7967144D67B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5950A613-7C4C-4EC9-AF9A-9515E33CD56D}
+	EndGlobalSection
+EndGlobal
